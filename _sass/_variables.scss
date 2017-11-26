@@ -13,15 +13,16 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 $blue: #4183C4;
+$orange: #ff6614;
 
 
 // Main theme colors 
 // Some cool main theme colors(violet:#8476ad;blue:#5cacee;red:#ff7373,#ff6f69;green:#6acf64,#2ddbb3;orange:#ffa268)
 
-$mono-color:#8476ad;                // main theme color(header, links, footer icons, buttons, post-title)
+$mono-color:#e31515;                // main theme color(header, links, footer icons, buttons, post-title)
 $hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta 
 $navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
-$link-color: $darkerGray;        // normal hyperlink color other than the ones above.
+$link-color: $orange;        // normal hyperlink color other than the ones above.
 
 
 // Heading colors
@@ -33,7 +34,7 @@ $h4-color: $gray;
 
 // Your avatar
 
-$avatar: "/images/avatar.jpg";
+$avatar: "/images/matt_github_pic.png";
 
 
 // Font stacks
